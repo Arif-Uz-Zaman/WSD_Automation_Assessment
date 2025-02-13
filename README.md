@@ -14,6 +14,14 @@ WSD_WebAutomation\_Task is a Maven-based automation framework designed for web t
 - **Reusable Utility Classes:** Includes functions for handling browser interactions, random data generation, and tab switching.
 - **Cross-Browser Testing:** Supports multiple browsers.
 
+## 🛠 Design Choices & Reasoning  
+
+1. **Maven & TestNG:** Enables dependency management, parallel execution, and structured test execution.  
+2. **Page Object Model (POM):** Enhances maintainability by separating test logic from UI elements.  
+3. **Explicit Waits & Utilities:** Ensures stable execution with reusable wait handlers and helper methods.  
+4. **Data-Driven Testing:** Uses JSON for flexible and easily configurable test data.  
+5. **Cross-Browser, Reporting & Modular Execution:** Supports multiple browsers, detailed reports, and allows running specific test cases or suites.
+
 ## Project Structure
 
 ```
