@@ -33,7 +33,6 @@ WebAutomation_Task
 │   │   │   │   ├── CartPage.java      # Cart page actions
 │   │   │   │   ├── HomePage.java  # Home Page Action
 │   │   │   │   ├── SearchResultPage.java     # Search Result  Page actions
-│   │   │   │   ├── ProductPage.java   # Product listing and interactions
 │   │   │   ├── utility
 │   │   │   │   ├── DataReader.java   # Reads test data from JSON
 │   │   │   ├── waits
@@ -77,11 +76,11 @@ WebAutomation_Task
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Arif-Uz-Zaman/WSD_WebAutomation_Assessment.git
+   git clone https://github.com/Arif-Uz-Zaman/WSD_Automation_Assessment.git 
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd WSD_WebAutomation_Assessment
+   cd WSD_Automation_Assessment
    ```
 3. **Install dependencies:**
    ```sh
@@ -132,3 +131,4 @@ To run a `testng.xml` file in Eclipse, follow these steps:
 K.M. Arif Uz Zaman - Software Quality Assurance Engineer
 
 ## ChainTest Report 
+<a href="https://ibb.co.com/FkmfcNN4"><img src="https://i.ibb.co.com/ZRGwvttz/screencapture-file-C-Users-shobo-eclipse-workspace-WSD-Automation-Assessment-target-chaintest-Index.png" alt="screencapture-file-C-Users-shobo-eclipse-workspace-WSD-Automation-Assessment-target-chaintest-Index" border="0"></a>
