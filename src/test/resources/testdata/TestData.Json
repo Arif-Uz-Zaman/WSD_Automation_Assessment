@@ -1,0 +1,10 @@
+{
+	"validProductName": "Fusion Backpack",
+	"relevantProductNames": ["Fusion Backpack", "Driven Backpack", "Endeavor Daytrip Backpack"],
+	"cartProductName": "Orestes Fitness Short",
+	"selectProductDetails": {
+      "productName": "Orestes Fitness Short",
+      "size": 32,
+      "color": "Black"
+    }
+}
